@@ -1,6 +1,6 @@
 # Machine-Learning-Labs
 
-ands-on machine learning labs in Python (Jupyter Notebook) covering logistic regression, Naïve Bayes, decision trees, ensemble learning, SVM, neural networks, regularization, and feature selection.
+Hands-on machine learning labs in Python (Jupyter Notebook) covering many ML algorithms and techniques including logistic regression, Naïve Bayes, decision trees, ensemble learning, SVM, neural networks, regularization, and feature selection.
  
 ---
  
